@@ -14,7 +14,7 @@
     </head>
 
     <body>
-        <h1>Krishna IS good From his work</h1>
+        <h1>Krishnak</h1>
         <form action="/todo/edit/<%= todoIdx %>" method="post">
             <p>
                 <label for="editTodo">Change to:</label>
